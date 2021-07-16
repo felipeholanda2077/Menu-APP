@@ -6,7 +6,7 @@
 
 # 👨🏻‍💻 Sobre o Projeto
 
-<h4>Site pessoal feito para poder descobrir um pouco mais sobre mim.</h4>
+<h4>Site pessoal feito para poder descobrir fazer um menu na vertical Responsivo</h4>
 
 <br>
 
