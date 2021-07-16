@@ -24,7 +24,7 @@
 
   - [x] **HTML**
   - [x] **CSS**
-  - [ ] **SCSS**
+  - [x] **SCSS**
 
   #### Ferramentas
 
