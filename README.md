@@ -17,13 +17,6 @@
 <a href="#Ferramentas">Ferramentas</a>
 
 <br>
-<br>
-
-#### Imagem
-
-<h1 aling="center">
-   <img alt="Readme" title="Readme" src="" />
-</h1>
 
   ### Tecnologias 🚀
 
@@ -31,6 +24,7 @@
 
   - [x] **HTML**
   - [x] **CSS**
+  - [ ] **SCSS**
 
   #### Ferramentas
 
