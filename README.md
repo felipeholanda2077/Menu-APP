@@ -6,7 +6,7 @@
 
 # 👨🏻‍💻 Sobre o Projeto
 
-<h4>Site pessoal feito para poder descobrir fazer um menu na vertical Responsivo</h4>
+<h4>Site pessoal feito para poder realizar um metodo menu na vertical Responsivo para dispositivos deskops e moveis se necessario</h4>
 
 <br>
 
