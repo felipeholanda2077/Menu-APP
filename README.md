@@ -8,6 +8,10 @@
 
 <h4>Site pessoal feito para poder realizar um metodo menu na vertical Responsivo para dispositivos deskops e moveis se necessario</h4>
 
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=green&style=for-the-badge"/>
+</p>
+
 <br>
 
 <p aling="center">Esse projeto...</p>
